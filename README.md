@@ -2,7 +2,11 @@
 
 Python + AirtestIDE를 활용한 **NIKKE** 게임 반복 테스트 자동화 스크립트입니다.
 
-<!-- 시연 영상/GIF를 넣으려면 GitHub 웹 편집기에서 이 위치에 파일을 드래그해 업로드하세요. -->
+
+
+https://github.com/user-attachments/assets/bd004373-4d5c-4d3d-ba9d-9175c644a066
+
+
 
 ---
 
