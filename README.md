@@ -38,7 +38,7 @@ QA 테스트 이후 빌드가 나온 시점에 **기본 기능 테스트**나 **
 | `run_shop()` | 상점 (무료 갱신·구매) | |
 | `run_dispatch()` | 전초기지 파견 | |
 | `run_interception()` | 요격전 | |
-| `run_simulation()` | 시뮬레이션 룸 | 구현 예정 |
+| `run_simulation()` | 시뮬레이션 룸 | |
 
 ---
 
